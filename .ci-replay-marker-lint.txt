@@ -1,0 +1,3 @@
+# CI replay marker for lint/bin/console lint:xliff
+feature_branch: replay-46cb3877
+workflow: .github/workflows/symfony-lint.yaml
